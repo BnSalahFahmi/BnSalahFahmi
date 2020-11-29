@@ -1,5 +1,5 @@
 <h1 align="center"> Hey folks! 👋, I'm Fahmi BEN SALAH</h1>
-<h3 align="center">Full Stack Java | kotlin | Angular | React Developer</h3>
+<h3 align="center">Full Stack Java | Kotlin | Angular | React Developer</h3>
 
 
 
@@ -10,8 +10,8 @@
 ```javascript
 const fahmi = {
   code: [Java, Kotlin, Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, NodeJS, Styled-Components],
-  frameworks: [Angular, Bootstrap 3/4],
+  tools: [React, Redux, NgRx, NodeJS, Styled-Components],
+  frameworks: [Angular 2+, Bootstrap 3/4],
   architectures: ["microservices", "event-sourcing", "hexagonale"]
 }
 ```
