@@ -22,5 +22,13 @@ const fahmi = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more !</b> :)</em>
 ---
 
+<details>
+  <summary><b>My Github stats</b></summary>
+<hr />
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bnsalahfahmi&show_icons=true&hide_border=true)
+
 <img src="https://komarev.com/ghpvc/?username=BnSalahFahmi&color=blue&style=plastic" alt="BnSalahFahmi" style="line-height:25px" />
-![GitHub stats](https://hit.yhype.halp.im/github/profile?user_id=18735417)
+
+<hr />
+</details>
