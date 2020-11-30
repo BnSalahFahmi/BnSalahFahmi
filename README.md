@@ -23,4 +23,4 @@ const fahmi = {
 ---
 
 <img src="https://komarev.com/ghpvc/?username=BnSalahFahmi&color=blue&style=plastic" alt="BnSalahFahmi" style="line-height:25px" />
-![](https://hit.yhype.halp.im/github/profile?user_id=18735417)
+![GitHub stats](https://hit.yhype.halp.im/github/profile?user_id=18735417)
