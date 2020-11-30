@@ -1,4 +1,4 @@
-<h1 align="center"> Hey folks! 👋, I'm Fahmi BEN SALAH</h1>
+<h1 align="center"> Hey folks ! 👋, I'm Fahmi BEN SALAH</h1>
 <h3 align="center">Full Stack Java | Kotlin | Angular | React Developer</h3>
 
 
